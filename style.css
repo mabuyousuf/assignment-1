@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.b-left {
+  border-left: 5px solid darkslateblue;
+  font-family: "Lora", serif;
+}
+h1 {
+  font-size: 50px;
+  padding-left: 25px;
+}
+span {
+  color: tomato;
+}
+.mission-title {
+  display: flex;
+  margin-top: 50px;
+}
+
+.half-width {
+  width: 40%;
+  margin: 20px 80px;
+  padding: 0px 10px;
+}
+
+#my-pic {
+  width: 100%;
+}
+
+.a-button {
+  background-color: dodgerblue;
+  display: inline-block;
+  margin-top: 50px;
+  text-decoration: none;
+
+  padding: 15px 35px;
+  color: white;
+  border-radius: 4px;
+}
+
+p {
+  color: rgb(75, 75, 75);
+  margin: 30px 0px;
+}
+
+.mission-goals {
+  display: flex;
+  margin: 30px 80px;
+}
+
+.m1 {
+  background-color: rgb(255, 231, 231);
+  border-radius: 15px;
+  margin: 20px;
+  padding: 25px;
+}
+
+.v1 {
+  background-color: rgb(206, 245, 206);
+  border-radius: 15px;
+  margin: 20px;
+  padding: 25px;
+}
+
+.g1 {
+  background-color: rgb(233, 233, 253);
+  border-radius: 15px;
+  margin: 20px;
+  padding: 25px;
+}
+
+.aln {
+  text-align: center;
+  font-size: 40px;
+}
+
+.mission-goals img {
+  width: 30%;
+}
+
+.d-sec1 {
+  display: flex;
+  margin: 70px 90px;
+}
+
+.d-img img {
+  width: 100%;
+}
+
+.d-img {
+  margin-right: 50px;
+}
+
+.g-community {
+  display: flex;
+  margin: 70px 90px;
+}
+
+.g-community img {
+  width: 100%;
+}
+
+.class1 {
+  margin: 70px 90px;
+  background-image: url(/images/shapes/shape-3.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.rd {
+  font-size: 40px;
+  text-align: left;
+}
+
+.Resident-ctnt {
+  display: flex;
+}
+
+.Resident-wtn {
+  margin: 50px 70px;
+}
+.t-align {
+  text-align: right;
+}
+
+footer {
+  background-color: rgb(10, 10, 10);
+  text-align: center;
+  padding: 20px 0px;
+}
+
+.footer {
+  color: white;
+  font-size: 30px;
+  font: italic;
+  font-family: "Lora", serif;
+  font-style: italic;
+}
